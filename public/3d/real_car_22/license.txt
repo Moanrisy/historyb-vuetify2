@@ -1,0 +1,11 @@
+Model Information:
+* title:	Real Car 22
+* source:	https://sketchfab.com/3d-models/real-car-22-d90c7f830f9c41398bb55de4a2e001be
+* author:	Maker Games Studios (https://sketchfab.com/MakerGamesStudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Real Car 22" (https://sketchfab.com/3d-models/real-car-22-d90c7f830f9c41398bb55de4a2e001be) by Maker Games Studios (https://sketchfab.com/MakerGamesStudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

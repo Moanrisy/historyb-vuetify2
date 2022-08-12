@@ -49,6 +49,7 @@
               <v-col cols="2">
                 <v-img :src="model.image"> </v-img>
                 <View360Dialog />
+                <View3DDialog />
               </v-col>
               <v-col>
                 <v-list-item v-for="(field, i) in fields" :key="i">
@@ -79,6 +80,7 @@
 import Vue from "vue";
 // import View360Mode from "./View360Mode.vue";
 import View360Dialog from "./View360Dialog.vue";
+import View3DDialog from "./View3DDialog.vue";
 
 export default Vue.extend({
   name: "HelloWorld",
@@ -93,6 +95,7 @@ export default Vue.extend({
   }),
   components: {
     View360Dialog,
+    View3DDialog,
   },
   methods: {
     view360() {
